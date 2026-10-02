@@ -1,0 +1,22 @@
+ Final Business Insights
+
+Based on the exploratory analysis and demand forecasting results:
+
+1. Historical sales data shows clear demand patterns across different stores and products.
+
+2. Sales vary significantly by day of the week, with higher average demand observed toward the weekend.
+
+3. Monthly sales analysis indicates the presence of seasonal demand patterns.
+
+4. Store-level analysis shows that demand is not evenly distributed across all stores.
+
+5. Product-level forecasting helps identify products with relatively higher expected demand.
+
+6. The Random Forest model uses store, item, and time-based features to estimate future demand.
+
+7. The predicted demand can support inventory planning by helping businesses prioritize products and stores according to expected demand.
+
+8. The forecast results are exported into `foresight_inventory_analysis.csv`, which can be used for further analysis and Power BI dashboard development.
+
+
+
