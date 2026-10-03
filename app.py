@@ -1493,7 +1493,7 @@ elif page == "About Project":
         PREDICTION_FILE,
         INVENTORY_FILE,
         MODEL_FILE,
-        "APP.py"
+        "app.py"
     ]
 
     for file in project_files:
